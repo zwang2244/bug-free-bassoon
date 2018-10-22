@@ -105,6 +105,14 @@ Student has been added to the group.
  2. Delete a student
  
  3. Search a student
+ 
+ 4. Add an item
+
+ 5. Delete an item
+ 
+ 6. Search an item
+
+
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
