@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 52 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+As a group we will agree who gets what and that assigned person must consent to the task.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
