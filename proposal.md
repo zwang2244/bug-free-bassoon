@@ -96,6 +96,7 @@ Student name and category will be Strings. Phone number, ids, and amount of ingr
 
 Name each interface or class and briefly describe its function or purpose.
 Student class: Will contain all of the important fields for each BST (student name, id, phone number, and ingredients amount).
+We will use the binary search tree as the interface to order each student's contribution of ingredients that they are bringing, while under the same leader for that specific category. 
 
 ## Edit and Submit this file and any figures referenced by this document.
 
