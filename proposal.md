@@ -84,12 +84,19 @@ The input of the program will start off by asking which tree the student should 
 
 Ex:
 Which item will this student help bring for the event? 1.Cake 2.Cookies 3.Brownies    input: 1
+
 What is the student's name?    input: Dep Deppeler
+
 What is this student's phone number?    input:6088675309
+
 How many hours can this student volunteer the day of the event?    input: 2.5
+
 How much flour can this person bring?    input: 2 pounds
+
 How much butter can this person bring?    input: 0 pounds
+
 How much sugar can this person bring?    input: 15 pounds
+
 Student has been added to the group.
 
 
