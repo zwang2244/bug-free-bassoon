@@ -72,7 +72,7 @@ stu C: Cate
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-The input of the program will start off by asking which tree the student should be placed in (i.e. asking which group they are going to be responsible for making an item with). We will then need to input the student's name (as a string) and phone number (probably as an int). Next each student node being added will have to specify the amount of ingredients they are bringing (how much flour/milk/eggs/sugar/etc.). They will be organized in the BST according to the total amount of ingredients they are bringing. Because we do not want the leader of each group to change we chose not to use an AVLTree like we originally planned.
+The input of the program will start off by asking which tree the student should be placed in (i.e. asking which group they are going to be responsible for making an item with). We will then need to input the student's name (as a string) and phone number/id (probably as an int). Next each student node being added will have to specify the amount of ingredients they are bringing (how much flour/milk/eggs/sugar/etc.). They will be organized in the BST according to the total amount of ingredients they are bringing. Because we do not want the leader of each group to change we chose not to use an AVLTree like we originally planned.
 
 Ex:
 
@@ -83,7 +83,7 @@ Ex:
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+The names and categories will be used as a String. Then student id, phone number, and ingredients will be ints. 
 
 
 Name each interface or class and briefly describe its function or purpose.
