@@ -36,6 +36,7 @@ We will use an ArrayList (or other similar data structure) to assign students to
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
+ Baked Goods Project
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -84,19 +85,12 @@ The input of the program will start off by asking which tree the student should 
 
 Ex:
 Which item will this student help bring for the event? 1.Cake 2.Cookies 3.Brownies    input: 1
-
 What is the student's name?    input: Dep Deppeler
-
 What is this student's phone number?    input:6088675309
-
 How many hours can this student volunteer the day of the event?    input: 2.5
-
 How much flour can this person bring?    input: 2 pounds
-
 How much butter can this person bring?    input: 0 pounds
-
 How much sugar can this person bring?    input: 15 pounds
-
 Student has been added to the group.
 
 
@@ -104,22 +98,18 @@ Student has been added to the group.
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
  
   Welcome to Baked Goods Project!
-  
   Choose:
-  
-  <b>Add a student</b>
+  1. Add a student
   ⋅⋅1. Add Name
   ⋅⋅2. Add ID
   ⋅⋅3. Add Phone Number
   ⋅⋅4. Add ingredients
-  
-  <b>Delete a student</b>
+  2. Delete a student
   ⋅⋅1. Delete Student
   ⋅⋅2. Delete ID
   ⋅⋅3. Delete Phone Number
   ⋅⋅4. Delete ingredients
-  
-  <b>Search for a student</b>
+  3. Search for a student
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Student name and category will be Strings. Phone number, ids, and amount of ingredients will be ints.
