@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-We buy a certain amount of ingredients that are usually used to bake like flour, sugar, and milk. It is for a bakery sale at school and we must bake cookies, cake, and 
-Describe at a high level a program that could solve that problem.
+We buy a certain amount of ingredients that are usually used to bake like flour, sugar, and milk. It is for a bakery sale at school and we must bake cookies, cake, and other items. We need a master list of resources and need to divide them up appropriately in order to make sure we have enough for all required items.
 
 ## Questions to answer for Exercise #2
 
