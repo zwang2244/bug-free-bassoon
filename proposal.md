@@ -75,52 +75,27 @@ stu C: Cate
 The input of the program will start off by asking which tree the student should be placed in (i.e. asking which group they are going to be responsible for making an item with). We will then need to input the student's name (as a string) and phone number (probably as an int). Next each student node being added will have to specify the amount of ingredients they are bringing (how much flour/milk/eggs/sugar/etc.). They will be organized in the BST according to the total amount of ingredients they are bringing. Because we do not want the leader of each group to change we chose not to use an AVLTree like we originally planned.
 
 Ex:
-
 Which item will this student help bring for the event? 1.Cake 2.Cookies 3.Brownies    input: 1
-
 What is the student's name?    input: Dep Deppeler
-
 What is this student's phone number?    input:6088675309
-
 How many hours can this student volunteer the day of the event?    input: 2.5
-
 How much flower can this person bring?    input: 2 pounds
-
 How much butter can this person bring?    input: 0 pounds
-
 How much sugar can this person bring?    input: 15 pounds
-
 Student has been added to the group.
 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
- 
- Welcome to Baked Goods Project!
- 
- Choose:
- 
- Add a student and his/her information
- 
- Delete a student
- 
- Search a student
- 
- Add an item
-
- Delete an item
- 
- Search an item
-
 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+Student name and category will be Strings. Phone number, ids, and amount of ingredients will be ints.
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+Student class: Will contain all of the important fields for each BST (student name, id, phone number, and ingredients amount).
 
 ## Edit and Submit this file and any figures referenced by this document.
 
