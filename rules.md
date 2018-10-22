@@ -13,7 +13,7 @@ As a group we will agree who gets what and that assigned person must consent to 
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Ask each other how far we are and if we need help. Otherwise when we meet, we will have check-ups.
 
 
 ## How will will communicate difficulties with a task assigned to us
