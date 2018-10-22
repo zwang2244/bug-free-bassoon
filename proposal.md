@@ -35,7 +35,7 @@ We will use an ArrayList (or other similar data structure) to assign students to
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Baked Goods Project
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
