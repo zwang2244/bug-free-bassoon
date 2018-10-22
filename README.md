@@ -10,7 +10,7 @@
        * GitHub username 1: rliu235       name 1: Rena Liu
        * GitHub username 2: YorkL123      name 2: York LI
        * GitHub username 3: zwang2244     name 3: Zhilin Wang
-       * GitHub username 4:       name 4:
+       * GitHub username 4: jrmartin4      name 4: Joseph Martin
        * GitHub username 5:       name 5:
    * When did you complete this exercise?
    
