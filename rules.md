@@ -17,7 +17,7 @@ Ask each other how far we are and if we need help. Otherwise when we meet, we wi
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+Message the entire group to communicate any problems we are having. Team can then suggest ideas and help write code if needed.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
