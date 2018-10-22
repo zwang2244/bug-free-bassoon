@@ -21,7 +21,7 @@ Message the entire group to communicate any problems we are having. Team can the
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Set early deadlines so that the team can jump in and help a struggling member if necessary.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
