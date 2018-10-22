@@ -96,7 +96,7 @@ Student has been added to the group.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
  
-  Welcome to Baked Goods Project!
+  ## Welcome to Baked Goods Project!
   Choose:
   1. Add a student
   * 1. Add Name
