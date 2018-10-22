@@ -97,18 +97,22 @@ Student has been added to the group.
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
  
   Welcome to Baked Goods Project!
+  
   Choose:
-  1. Add a student
+  
+  <b>Add a student</b>
   ⋅⋅1. Add Name
   ⋅⋅2. Add ID
   ⋅⋅3. Add Phone Number
   ⋅⋅4. Add ingredients
-  2. Delete a student
+  
+  <b>Delete a student</b>
   ⋅⋅1. Delete Student
   ⋅⋅2. Delete ID
   ⋅⋅3. Delete Phone Number
   ⋅⋅4. Delete ingredients
-  3. Search for a student
+  
+  <b>Search for a student</b>
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Student name and category will be Strings. Phone number, ids, and amount of ingredients will be ints.
