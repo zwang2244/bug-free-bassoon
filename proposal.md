@@ -39,6 +39,9 @@ We will use an ArrayList (or other similar data structure) to assign students to
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+The output for the program will give the leader of each category of baked goods (cake, cookie, etc.). Under that leader, then we will have the students's contribution to the event. Each node will have multiple fields for the specific student: name, phone number, and ingredients amount.
+
+Ex:
 
 
 
