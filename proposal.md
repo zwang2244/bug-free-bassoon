@@ -100,17 +100,17 @@ Student has been added to the group.
  
  Choose:
  
- 1. Add a student and his/her information
+ Add a student and his/her information
  
- 2. Delete a student
+ Delete a student
  
- 3. Search a student
+ Search a student
  
- 4. Add an item
+ Add an item
 
- 5. Delete an item
+ Delete an item
  
- 6. Search an item
+ Search an item
 
 
 
