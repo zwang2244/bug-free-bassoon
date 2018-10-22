@@ -30,6 +30,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 We buy a certain amount of ingredients that are usually used to bake like flour, sugar, and milk. It is for a bakery sale at school and we must bake cookies, cake, and other items. We need a master list of resources and need to divide them up appropriately in order to make sure we have enough for all required items.
+We will use an ArrayList (or other similar data structure) to assign students to what they need to make/bring in for the event. Each item will be an AVLTRee (or other similar tree structure) and will have one student be in charge (be the root node) of the group. The tree could assign students to the left or right node depending on what they are able to bring to make sure the group accomplishes their specified task.
 
 ## Questions to answer for Exercise #2
 
