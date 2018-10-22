@@ -29,7 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
+We buy a certain amount of ingredients that are usually used to bake like flour, sugar, and milk. It is for a bakery sale at school and we must bake cookies, cake, and 
 Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
