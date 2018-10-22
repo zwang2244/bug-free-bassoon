@@ -35,6 +35,7 @@ We will use an ArrayList (or other similar data structure) to assign students to
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
+
 Baked Goods Project
 
 
@@ -96,7 +97,7 @@ Student has been added to the group.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
  
-  ## Welcome to Baked Goods Project!
+  # Welcome to Baked Goods Project!
   Choose:
   1. Add a student
   * 1. Add Name
