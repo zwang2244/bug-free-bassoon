@@ -43,6 +43,32 @@ The output for the program will give the leader of each category of baked goods 
 
 Ex:
 
+Item1: chocolate cookeis
+
+stu A: Abby 
+
+ student id: 123
+ 
+ phone: 6081117888
+ 
+ ingredients of goods: 1000g flour, 10 eggs
+ 
+stu B: Bob
+
+ student id:456
+ 
+ phone: 6081117886
+ 
+ ingredients of goods: 100g sugar
+ 
+stu C: Cate
+
+ student id:789
+ 
+ phone: 6081117889
+ 
+ ingredients of goods: 200g chocolate 
+
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
