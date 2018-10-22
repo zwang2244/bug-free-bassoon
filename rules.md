@@ -25,6 +25,6 @@ Set early deadlines so that the team can jump in and help a struggling member if
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+None
 
 
