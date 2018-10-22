@@ -51,7 +51,9 @@ stu A: Abby
  
  phone: 6081117888
  
- ingredients of goods: 1000g flour, 10 eggs
+ ingredients of goods: 2 pounds flour, 0 pounds butter, 15 pounds sugar
+ 
+ voluteer time: 2.5 h
  
 stu B: Bob
 
@@ -59,7 +61,9 @@ stu B: Bob
  
  phone: 6081117886
  
- ingredients of goods: 100g sugar
+ ingredients of goods: 0 pounds flour, 1 pounds butter, 1.5 pounds sugar
+ 
+ voluteer time: 0.5 h
  
 stu C: Cate
 
@@ -67,7 +71,9 @@ stu C: Cate
  
  phone: 6081117889
  
- ingredients of goods: 200g chocolate 
+ ingredients of goods: 1 pounds flour, 4 pounds butter, 3 pounds sugar
+ 
+ voluteer time: 1.5 h
 
 
 
@@ -79,7 +85,7 @@ Which item will this student help bring for the event? 1.Cake 2.Cookies 3.Browni
 What is the student's name?    input: Dep Deppeler
 What is this student's phone number?    input:6088675309
 How many hours can this student volunteer the day of the event?    input: 2.5
-How much flower can this person bring?    input: 2 pounds
+How much flour can this person bring?    input: 2 pounds
 How much butter can this person bring?    input: 0 pounds
 How much sugar can this person bring?    input: 15 pounds
 Student has been added to the group.
@@ -96,7 +102,6 @@ Student name and category will be Strings. Phone number, ids, and amount of ingr
 
 Name each interface or class and briefly describe its function or purpose.
 Student class: Will contain all of the important fields for each BST (student name, id, phone number, and ingredients amount).
-We will use the binary search tree as the interface to order each student's contribution of ingredients that they are bringing, while under the same leader for that specific category. 
 
 ## Edit and Submit this file and any figures referenced by this document.
 
