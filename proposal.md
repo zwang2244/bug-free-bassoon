@@ -37,6 +37,16 @@ Main java program:
 will show the user interface, aksing users for input information in a correct format.
 After the user's choice, the UI will show correct output.
 
+Testing:
+
+-Ensure tree is a valid BST
+
+-Ensure amounts of ingredients are positive
+
+-Ensure phone number is a 10 digit int
+
+-Ensure name is a valid String with first and last name
+
 
 ## Questions to answer for Exercise #2
 
