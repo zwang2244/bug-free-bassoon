@@ -39,6 +39,7 @@ We will use an ArrayList (or other similar data structure) to assign students to
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+
 The output for the program will give the leader of each category of baked goods (cake, cookie, etc.). Under that leader, then we will have the students's contribution to the event. Each node will have multiple fields for the specific student: name, phone number, and ingredients amount.
 
 Ex:
@@ -78,6 +79,7 @@ stu C: Cate
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 The input of the program will start off by asking which tree the student should be placed in (i.e. asking which group they are going to be responsible for making an item with). We will then need to input the student's name (as a string) and phone number (probably as an int). Next each student node being added will have to specify the amount of ingredients they are bringing (how much flour/milk/eggs/sugar/etc.). They will be organized in the BST according to the total amount of ingredients they are bringing. Because we do not want the leader of each group to change we chose not to use an AVLTree like we originally planned.
 
 Ex:
@@ -107,7 +109,6 @@ Student has been added to the group.
   ⋅⋅3. Delete Phone Number
   ⋅⋅4. Delete ingredients
   3. Search for a student
-
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Student name and category will be Strings. Phone number, ids, and amount of ingredients will be ints.
