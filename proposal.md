@@ -95,6 +95,7 @@ Student has been added to the group.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+ 
  Welcome to Baked Goods Project!
  
  Choose:
