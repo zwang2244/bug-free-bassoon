@@ -36,7 +36,6 @@ We will use an ArrayList (or other similar data structure) to assign students to
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
- Baked Goods Project
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -100,15 +99,15 @@ Student has been added to the group.
   Welcome to Baked Goods Project!
   Choose:
   1. Add a student
-  ⋅⋅1. Add Name
-  ⋅⋅2. Add ID
-  ⋅⋅3. Add Phone Number
-  ⋅⋅4. Add ingredients
+  * 1. Add Name
+  * 2. Add ID
+  * 3. Add Phone Number
+  * 4. Add ingredients
   2. Delete a student
-  ⋅⋅1. Delete Student
-  ⋅⋅2. Delete ID
-  ⋅⋅3. Delete Phone Number
-  ⋅⋅4. Delete ingredients
+  * 1. Delete Student
+  * 2. Delete ID
+  * 3. Delete Phone Number
+  * 4. Delete ingredients
   3. Search for a student
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
