@@ -111,10 +111,12 @@ Student has been added to the group.
   3. Search for a student
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+
 Student name and category will be Strings. Phone number, ids, and amount of ingredients will be ints.
 
 
 Name each interface or class and briefly describe its function or purpose.
+
 Student class: Will contain all of the important fields for each BST (student name, id, phone number, and ingredients amount).
 
 ## Edit and Submit this file and any figures referenced by this document.
